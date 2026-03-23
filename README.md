@@ -40,3 +40,4 @@ This project is a **Streamlit app** that predicts whether a hotel booking is lik
 ---
 
 ## Check out the live app 
+https://hotel-booking-cancellation-prediction-6qe3wgza9u9qslwe8kodxj.streamlit.app/
